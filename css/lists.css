@@ -1,0 +1,112 @@
+
+			#lunbo1 {
+				width: 792px;
+			}
+			
+			.lunbo1-1 {
+				float: left;
+			}
+			
+			.lunbo2 {
+				width: 792px;
+			}
+			
+			.lunbo1-1:hover {
+				opacity: 0.7;
+			}
+			
+			#head {
+				width: 1200px;
+				height: 100px;
+				border: solid;
+				margin: auto;
+			}
+			
+			#head1 {
+				width: 75%;
+				height: 100%;
+				float: right;
+				border: solid;
+				/*background:red;*/
+			}
+			
+			#head1 ul {
+				list-style: none;
+			}
+			
+			#head1 ul li {
+				float: left;
+				margin-left: 17px;
+				line-height: 60px;
+				font-size: 20px;
+				text-decoration: none;
+			}
+			
+			#head1 ul li a:link {
+				color: black;
+			}
+			
+			#head1 ul li a:visited {
+				color: black;
+			}
+			
+			#head1 ul li a:hover {
+				color: blue;
+			}
+			
+			#mainbody {
+				width: 1200px;
+				height: 1000px;
+				margin: auto;
+				margin-top: 50px;
+				opacity: 0.85;
+			}
+			#botleft{
+				width: 49%;
+				height: 50%;
+				float: left;
+				font-size: 40px;
+				background-color: aqua;
+			}
+			#botright{
+				width: 49%;
+				height: 50%;
+				float: left;
+				font-size: 40px;
+				background-color:salmon;
+			}
+			#leftmenu {
+				width: 200px;
+				height: 1000px;
+				float: left;
+				
+			}
+			
+			#menubtn {
+				margin-top: 5px;
+				width: 200px;
+				height: 85px;
+				background-color: antiquewhite;
+				border-bottom: dotted;
+				text-decoration: none;
+				border-radius: 30px;
+				cursor: pointer;
+			}
+			#menubtn :hover{
+				background-color: wheat;
+			}
+			
+			#info1 {
+				width: 800px;
+				height: 1000px;
+				background-color: yellow;
+				float: left;
+			}
+			
+			#info2 {
+				font-size: 40px;
+				width: 190px;
+				height: 1000px;
+				background-color: pink;
+				float: left;
+			}
